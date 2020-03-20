@@ -16,5 +16,11 @@
     "repository":  "TheMuppets/android_vendor_xiaomi",
     "target_path": "vendor/xiaomi",
     "branch":      "lineage-17.1"
+  },
+  {
+    "repository": "packages_apps_PixelLiveWallpaper",
+    "target_path": "packages/apps/PixelLiveWallpaper",
+    "branch": "ten",
+    "remote": "pixel-gitlab"
   }
 ]
